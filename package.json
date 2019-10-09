@@ -1,0 +1,20 @@
+{
+  "name": "homer_file_loader",
+  "version": "1.0.0",
+  "description": "Homer Code Exercise - Part 1",
+  "main": "file_loader_invoker.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Hamlet Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "mysql-parse": "^2.0.8",
+    "winston": "^3.2.1",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}

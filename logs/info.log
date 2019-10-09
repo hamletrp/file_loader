@@ -1,0 +1,9 @@
+{"message":"Starting to read the file: [ /Users/hamletrp/Downloads/code-exercise/stories.csv. ]","level":"info","service":"file_loader-service"}
+{"message":"skipping column header.","level":"info","service":"file_loader-service"}
+{"message":"Inserting batch of [ 100 ].","level":"info","service":"file_loader-service"}
+{"message":"Inserting batch of [ 100 ].","level":"info","service":"file_loader-service"}
+{"message":"Inserting batch of [ 100 ].","level":"info","service":"file_loader-service"}
+{"message":"Last batch of 56 inserted.","level":"info","service":"file_loader-service"}
+{"message":"Completing file upload. Records loaded [ 356 ].","level":"info","service":"file_loader-service"}
+{"message":"Starting to read the file: [ /Users/hamletrp/Downloads/code-exercise/source/homer_file_loader/not/existing/file.file. ]","level":"info","service":"file_loader-service"}
+{"message":"The specified file does not exist. File path: [ /Users/hamletrp/Downloads/code-exercise/source/homer_file_loader/not/existing/file.file ]","level":"error","service":"file_loader-service"}
