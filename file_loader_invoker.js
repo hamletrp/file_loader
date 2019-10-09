@@ -1,3 +1,6 @@
+#!/bin/sh
+':' //; exec "$(command -v nodejs || command -v node)" "$0" "$@"
+
 const fileLoader = require('./file_loader');
 const yargs = require('yargs');
 const cmd = 'load-file';
